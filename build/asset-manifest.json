@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portpolio/static/css/main.385b4204.css",
-    "main.js": "/portpolio/static/js/main.fbf51b2b.js",
-    "static/media/profilephoto.jpg": "/portpolio/static/media/profilephoto.780afc81566f1c0e9f31.jpg",
-    "static/media/Poppins-Thin.ttf": "/portpolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
-    "static/media/Poppins-Light.ttf": "/portpolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
-    "static/media/Poppins-Regular.ttf": "/portpolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/Poppins-Medium.ttf": "/portpolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/portpolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
-    "static/media/Poppins-Bold.ttf": "/portpolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/Poppins-ExtraBold.ttf": "/portpolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "index.html": "/portpolio/index.html",
-    "main.385b4204.css.map": "/portpolio/static/css/main.385b4204.css.map",
-    "main.fbf51b2b.js.map": "/portpolio/static/js/main.fbf51b2b.js.map"
+    "main.css": "/Portpolio/static/css/main.fc46ee21.css",
+    "main.js": "/Portpolio/static/js/main.fbf51b2b.js",
+    "static/media/profilephoto.jpg": "/Portpolio/static/media/profilephoto.780afc81566f1c0e9f31.jpg",
+    "static/media/Poppins-Thin.ttf": "/Portpolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Portpolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Portpolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/Portpolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Portpolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Portpolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Portpolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "index.html": "/Portpolio/index.html",
+    "main.fc46ee21.css.map": "/Portpolio/static/css/main.fc46ee21.css.map",
+    "main.fbf51b2b.js.map": "/Portpolio/static/js/main.fbf51b2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.385b4204.css",
+    "static/css/main.fc46ee21.css",
     "static/js/main.fbf51b2b.js"
   ]
 }

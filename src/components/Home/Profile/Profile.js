@@ -37,11 +37,11 @@ export default function Profile() {
                   loop={Infinity}
                   steps={[
                     "Software Engineer 💻",
-                    1000,
+                    1500,
                     "Music Lover 🎶",
-                    1000,
-                    "Grad Student 🎓",
-                    1000,
+                    1500,
+                    "Graduate Student 🎓",
+                    1500,
                   ]}
                 />
               </h1>

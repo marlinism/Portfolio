@@ -36,6 +36,12 @@ export default function Contact(props) {
           <a href="https://github.com/marlinism">
             <i className="fa fa-github-square fa-3x"></i>
           </a>
+          <a href="tel:2063595617">
+            <i className="fa fa-regular fa-phone-square fa-3x"></i>
+          </a>
+          <a href="mailto:tbanh2001@gmail.com">
+            <i className="fa fa-envelope-square fa-3x"></i>
+          </a>
         </div>
       </div>
       <Footer />
