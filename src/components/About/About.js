@@ -15,9 +15,9 @@ export default function About(props) {
     ScrollService.currentScreenFadeIn.subscribe(fadeInScreenHandler);
 
   const SCREEN_CONSTANTS = {
-    description: "I am a software engineer in wa, usa. i LOVE coding and art; for me, coding is the 8th form of art: using imagination and logicity to create the masterpiece. this site is the way for me to convey my definition of ART to everybody.",
+    description: "I am a software engineer in WA, US. I LOVE coding and art; for me, coding is the 8th form of art: using imagination and logic to create the masterpiece.",
     highlights: {
-      bullets: ["Achieved 2 Golden Medals in Mathematics", "Participated as a copywriter for some nonprofit-organizations in VietNam", "Earned the Associates degree from Bellevue College", "Completed the internship in a sponsored organization - Whimsy Walks", "Earned the Bachelor degree in University of Washington"],
+      bullets: ["Achieved 2 Golden Medals in Mathematics", "Copywriter for some nonprofit-organizations in VietNam", "Earned the Associates degree from Bellevue College", "Completed the internship in a sponsored organization - Whimsy Walks", "Earned the Bachelor degree in University of Washington"],
       heading: "Highlights:",
     },
   };

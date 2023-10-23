@@ -79,4 +79,8 @@
     .about-me-options button {
       width: 100%;
     }
+
+    .highlight-blob {
+      display: none;
+    }
   }
