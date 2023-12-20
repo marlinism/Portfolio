@@ -1,4 +1,4 @@
-My website is published at: https://marlinism.github.io/Portpolio/
+My website is published at: https://marlinism.github.io/Portfolio/
 
 # Getting Started with Create React App
 
