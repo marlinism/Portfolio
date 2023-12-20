@@ -1,6 +1,6 @@
 {
-  "name": "portpolio",
-  "homepage": "http://marlinism.github.io/Portpolio",
+  "name": "portfolio",
+  "homepage": "http://marlinism.github.io/Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
