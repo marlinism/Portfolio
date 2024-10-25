@@ -17,7 +17,8 @@ export default function About(props) {
   const SCREEN_CONSTANTS = {
     description: "I am a software engineer in WA, US. I LOVE coding and art; for me, coding is the 8th form of art: using imagination and logic to create the masterpiece.",
     highlights: {
-      bullets: ["Achieved 2 Golden Medals in Mathematics", "Copywriter for some nonprofit-organizations in VietNam", "Earned the Associates degree from Bellevue College", "Completed the internship in a sponsored organization - Whimsy Walks", "Earned the Bachelor degree in University of Washington"],
+      bullets: ["Interning as a Software Development Engineer during Winter 2025", "Achieved 2 Golden Medals in Mathematics",
+        "Pursuing a Master's degree in Computer Science in Seattle University", "Completed the internship in a sponsored organization - Whimsy Walks", "Earned the Bachelor degree in University of Washington"],
       heading: "Highlights:",
     },
   };
